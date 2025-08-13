@@ -11,7 +11,7 @@ Welcome to my AWS portfolio repository! Here you'll find a collection of hands-o
 
 - **AWS Networking Series!** ~ Networking-focused challenges and solutions
   - [X] 1️⃣ [**Build a Virtual Private Cloud** - Create the foundation of your network](./AWS%20Networking%20Series!/Build%20a%20Virtual%20Private%20Cloud.pdf)
-  - [ ] 2️⃣ **VPC Traffic Flow and Security** - Control traffic in your network
+  - [X] 2️⃣ [**VPC Traffic Flow and Security** - Control traffic in your network](./AWS%20Networking%20Series!/VPC%20Traffic%20Flow%20%20and%20Security.pdf)
   - [ ] 3️⃣ **Creating a Private Subnet** - Set up isolated sections of your VPC
   - [ ] 4️⃣ **Launching VPC Resources** - Add servers and services to your network
   - [ ] 5️⃣ **Testing VPC Connectivity** - Verify network communication works
