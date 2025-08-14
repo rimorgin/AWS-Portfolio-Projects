@@ -9,16 +9,19 @@ Welcome to my AWS portfolio repository! Here you'll find a collection of hands-o
   - [ ] 2️⃣ **Visualize Data with QuickSight**
   - [X] 3️⃣ [**Cloud Security with AWS IAM**](./AWS%20Beginners%20Challenge!/Cloud%20Security%20with%20AWS%20IAM.pdf): Learn how to secure your AWS resources using Identity and Access Management
 
-- **AWS Networking Series!** ~ Networking-focused challenges and solutions
+- **AWS Networking Series!** ~ Networking-focused challenges and solutions.
   - [X] 1️⃣ [**Build a Virtual Private Cloud**](./AWS%20Networking%20Series!/Build%20a%20Virtual%20Private%20Cloud.pdf): Create the foundation of your network
   - [X] 2️⃣ [**VPC Traffic Flow and Security**](./AWS%20Networking%20Series!/VPC%20Traffic%20Flow%20%20and%20Security.pdf): Control traffic in your network
   - [X] 3️⃣ [**Creating a Private Subnet**](./AWS%20Networking%20Series!/Creating%20a%20Private%20Subnet.pdf): Set up isolated sections of your VPC
   - [X] 4️⃣ [**Launching VPC Resources**](./AWS%20Networking%20Series!/Launching%20VPC%20Resources.pdf): Add servers and services to your network
   - [X] 5️⃣ [**Testing VPC Connectivity**](./AWS%20Networking%20Series!/Testing%20VPC%20Connectivity.pdf): Verify network communication works
-  - [ ] 6️⃣ **VPC Peering**: Connect multiple VPCs together
+  - [X] 6️⃣ [**VPC Peering**](./AWS%20Networking%20Series!/VPC%20Peering.pdf): Connect multiple VPCs together
   - [ ] 7️⃣ **VPC Monitoring with Flow Logs**: Track and analyze network traffic
   - [ ] 8️⃣ **Access S3 from a VPC**: Connect your VPC to AWS storage services
   - [ ] 9️⃣ **VPC Endpoints**: Optimize connections to AWS services
+  <br><br>
+  - 🚀 Technologies used in this series
+    - Amazon VPC and EC2.
 
 <!-- 
 ## 🚀 Technologies Used
