@@ -14,7 +14,7 @@ Welcome to my AWS portfolio repository! Here you'll find a collection of hands-o
   - [X] 2️⃣ [**VPC Traffic Flow and Security**](./AWS%20Networking%20Series!/VPC%20Traffic%20Flow%20%20and%20Security.pdf): Control traffic in your network
   - [X] 3️⃣ [**Creating a Private Subnet**](./AWS%20Networking%20Series!/Creating%20a%20Private%20Subnet.pdf): Set up isolated sections of your VPC
   - [X] 4️⃣ [**Launching VPC Resources**](./AWS%20Networking%20Series!/Launching%20VPC%20Resources.pdf): Add servers and services to your network
-  - [ ] 5️⃣ **Testing VPC Connectivity**: Verify network communication works
+  - [X] 5️⃣ [**Testing VPC Connectivity**](./AWS%20Networking%20Series!/Testing%20VPC%20Connectivity.pdf): Verify network communication works
   - [ ] 6️⃣ **VPC Peering**: Connect multiple VPCs together
   - [ ] 7️⃣ **VPC Monitoring with Flow Logs**: Track and analyze network traffic
   - [ ] 8️⃣ **Access S3 from a VPC**: Connect your VPC to AWS storage services
