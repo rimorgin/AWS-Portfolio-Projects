@@ -6,7 +6,7 @@ Welcome to my AWS portfolio repository! Here you'll find a collection of hands-o
 
 - **AWS Beginners Challenge!** ~ Beginner-focused challenges and solutions 
   - [X] 1️⃣ [**Host a Website on Amazon S3**](./AWS%20Beginners%20Challenge!/Host%20a%20Website%20on%20Amazon%20S3.pdf): Step-by-step guide to hosting static websites on Amazon S3
-  - [ ] 2️⃣ **Visualize Data with QuickSight**
+  - [ ] 2️⃣ [<del>**Visualize Data with QuickSight**</del>](## "Unable to complete due to unavailability of Amazon QuickSight to my free acount"): Learn data visualisation with QuickSight (UNAVAILABLE)
   - [X] 3️⃣ [**Cloud Security with AWS IAM**](./AWS%20Beginners%20Challenge!/Cloud%20Security%20with%20AWS%20IAM.pdf): Learn how to secure your AWS resources using Identity and Access Management
 
 - **AWS Networking Series!** ~ Networking-focused challenges and solutions.
@@ -17,12 +17,12 @@ Welcome to my AWS portfolio repository! Here you'll find a collection of hands-o
   - [X] 4️⃣ [**Launching VPC Resources**](./AWS%20Networking%20Series!/Launching%20VPC%20Resources.pdf): Add servers and services to your network
   - [X] 5️⃣ [**Testing VPC Connectivity**](./AWS%20Networking%20Series!/Testing%20VPC%20Connectivity.pdf): Verify network communication works
   - [X] 6️⃣ [**VPC Peering**](./AWS%20Networking%20Series!/VPC%20Peering.pdf): Connect multiple VPCs together
-  - [ ] 7️⃣ **VPC Monitoring with Flow Logs**: Track and analyze network traffic
-  - [ ] 8️⃣ **Access S3 from a VPC**: Connect your VPC to AWS storage services
-  - [ ] 9️⃣ **VPC Endpoints**: Optimize connections to AWS services
+  - [X] 7️⃣ [**VPC Monitoring with Flow Logs**](./AWS%20Networking%20Series!/VPC%20Monitoring%20with%20Flow%20Logs.pdf): Track and analyze network traffic
+  - [X] 8️⃣ [**Access S3 from a VPC**](./AWS%20Networking%20Series!/Access%20S3%20from%20a%20VPC.pdf): Connect your VPC to AWS storage services
+  - [X] 9️⃣ [**VPC Endpoints**](./AWS%20Networking%20Series!/VPC%20Endpoints.pdf): Optimize connections to AWS services
   <br><br>
   - 🚀 Technologies used in this series
-    - Amazon VPC and EC2.
+    - Amazon VPC, EC2, S3 and CloudWatch.
 
 <!-- 
 ## 🚀 Technologies Used
